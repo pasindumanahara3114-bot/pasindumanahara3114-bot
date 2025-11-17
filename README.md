@@ -1,7 +1,10 @@
 <!-- ====== CUSTOM BANNER (replace the link with your own image) ====== -->
 <p align="center">
-  <img src="https://i.imgur.com/DxWQ8ZB.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/pasindumanahara3114-bot/pasindumanahara3114-bot/main/profile_circle.png" 
+       width="200" 
+       alt="Pasindu Manahara">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Pasindu Manahara</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
